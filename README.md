@@ -1,1 +1,1 @@
-This is charity website in which i use html css and javascript.
+This is charity website in which I use html css and javascript.
